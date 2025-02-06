@@ -1,4 +1,4 @@
 # sample-demo
 This is my first Git repository.
 <br>
-Author - Harshada Gatla (Student)
+Author - Harshada Gatla (I am a Student)
